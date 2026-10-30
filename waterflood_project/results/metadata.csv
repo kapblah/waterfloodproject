@@ -1,2 +1,0 @@
-nx,ny,nz,Lx_m,Ly_m,Lz_m,porosity,kx_mD,ky_mD,kz_mD,initial_water_saturation,Swr,Sor,injection_m3_day,producer_bhp_bar
-40,20,1,500,250,10,0.2,100,100,10,0.15,0.15,0.2,100,220
